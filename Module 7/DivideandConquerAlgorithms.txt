@@ -1,0 +1,3 @@
+Divide and conquer algorithms are O(log(n)).
+Say we are try to guess a number between 1 and 8.
+Say list/array of numbers is sorted
